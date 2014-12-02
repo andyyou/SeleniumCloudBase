@@ -1,0 +1,11 @@
+[-0.000][INFO]:     ChromeDriver 26.0.1383.0 c:\users\ieuser\documents\visual studio 2013\Projects\PasserTesting\TestResults\IEUser_IE9WIN7 2014-11-27 22_48_44\Out\chromedriver.exe
+[0.963][FINE]:      Initializing session with capabilities {
+   "browserName": "chrome",
+   "chromeOptions": {
+
+   },
+   "javascriptEnabled": true,
+   "platform": "ANY",
+   "version": ""
+}
+

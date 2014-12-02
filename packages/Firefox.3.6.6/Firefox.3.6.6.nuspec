@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Firefox</id>
+    <version>3.6.6</version>
+    <title>Firefox</title>
+    <authors>Mozilla</authors>
+    <owners>Mozilla</owners>
+    <licenseUrl>http://www.mozilla.com/en-US/about/legal.html</licenseUrl>
+    <projectUrl>http://firefox.com/</projectUrl>
+    <iconUrl>http://www.w3schools.com/browsers/pic_firefox_large.jpg</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Portable Firefox</description>
+    <summary>Portable Firefox</summary>
+    <tags>Firefox Browser Testing</tags>
+  </metadata>
+</package>

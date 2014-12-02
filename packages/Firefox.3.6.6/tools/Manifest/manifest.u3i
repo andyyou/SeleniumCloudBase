@@ -1,0 +1,17 @@
+<u3manifest version="1.0">
+	<application uuid="29253057-7FF3-4A1F-1EA8-D2FE61A7D018" version="3.6.6">
+		<icon>firefox.ico</icon>
+		<name>Mozilla Firefox</name>
+		<vendor>Mozilla Corporation</vendor>
+		<description>Mozilla Firefox is an advanced and secure web browser.</description>
+		<options>
+			<minFreeSpace>50</minFreeSpace>
+		</options>
+		<i18n></i18n>
+	</application>
+		<actions>
+			<appStart cmd="%U3_APP_DATA_PATH%\launcher.exe"></appStart>
+			<appStop cmd="%U3_HOST_EXEC_PATH%\appstop.exe"> -t -s firefox</appStop>
+			<hostCleanUp cmd="%U3_HOST_EXEC_PATH%\appstop.exe">-t -s firefox</hostCleanUp>
+		</actions>
+</u3manifest>

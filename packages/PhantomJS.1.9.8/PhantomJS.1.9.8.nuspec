@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>PhantomJS</id>
+    <version>1.9.8</version>
+    <authors>Ariya Hidayat</authors>
+    <owners>Ariya Hidayat</owners>
+    <licenseUrl>https://github.com/ariya/phantomjs/blob/master/LICENSE.BSD</licenseUrl>
+    <projectUrl>http://phantomjs.org/</projectUrl>
+    <iconUrl>http://wesleyhales.com/images/icons/phantomjs.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>PhantomJS is a headless WebKit scriptable with a JavaScript API. It has fast and native support for various web standards: DOM handling, CSS selector, JSON, Canvas, and SVG.</description>
+    <releaseNotes>- Change default SSL protocol to TLSv1 to address POODLE (issue 12655)
+ To use the old default protocol of SSLv3 which is vulnerable to POODLE add the --ssl-protocol=SSLv3 flag. Reference: http://poodlebleed.com/
+- Fixed building on OS X 10.10 Yosemite (issue 12622)
+- Backported crash fix when exit (issue 11642, 12431)</releaseNotes>
+    <copyright />
+    <tags>PhantomJS headless browser console UI web testing</tags>
+  </metadata>
+</package>

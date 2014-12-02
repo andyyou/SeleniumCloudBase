@@ -1,0 +1,12 @@
+c:\users\ieuser\documents\visual studio 2013\Projects\PasserTesting\PasserTesting\bin\Debug\phantomjs-license.txt
+c:\users\ieuser\documents\visual studio 2013\Projects\PasserTesting\PasserTesting\bin\Debug\phantomjs.exe
+c:\users\ieuser\documents\visual studio 2013\Projects\PasserTesting\PasserTesting\bin\Debug\PasserTesting.dll
+c:\users\ieuser\documents\visual studio 2013\Projects\PasserTesting\PasserTesting\bin\Debug\PasserTesting.pdb
+c:\users\ieuser\documents\visual studio 2013\Projects\PasserTesting\PasserTesting\bin\Debug\WebDriver.dll
+c:\users\ieuser\documents\visual studio 2013\Projects\PasserTesting\PasserTesting\bin\Debug\WebDriver.Support.dll
+c:\users\ieuser\documents\visual studio 2013\Projects\PasserTesting\PasserTesting\bin\Debug\WebDriver.xml
+c:\users\ieuser\documents\visual studio 2013\Projects\PasserTesting\PasserTesting\bin\Debug\WebDriver.Support.xml
+c:\users\ieuser\documents\visual studio 2013\Projects\PasserTesting\PasserTesting\obj\Debug\PasserTesting.dll
+c:\users\ieuser\documents\visual studio 2013\Projects\PasserTesting\PasserTesting\obj\Debug\PasserTesting.pdb
+c:\users\ieuser\documents\visual studio 2013\Projects\PasserTesting\PasserTesting\bin\Debug\LoadTest1.loadtest
+C:\Users\IEUser\documents\visual studio 2013\Projects\PasserTesting\PasserTesting\obj\Debug\PasserTesting.csprojResolveAssemblyReference.cache
